@@ -13,6 +13,7 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 -  En apprentissage de : **pytorch pour le deeplearning**
 -  J'utilise les outils d'IA pour booster ma productivité et accélérer mon apprentissage
 -  Basé à **Lomé , Togo**
+-  A la recherche d'un **stage en data science** pour rejoindre un cadre dynamique et ameliorer mes compétences
 -  Discutons de : Machine Learning, Data Science,DeepLearning, Python, IA générative
 
 ---
@@ -40,7 +41,7 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ##  Projets phares
 
-###  [Nom du projet 1](https://github.com/ton-username/projet-1)
+###  [Detection de fraude bancaire](https://github.com/ton-username/projet-1)
 > Courte description du projet — quel problème il résout et comment.
 
 **Technologies :** Python · Scikit-learn · Pandas · Matplotlib  
@@ -56,10 +57,10 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ---
 
-###  [Nom du projet 3](https://github.com/ton-username/projet-3)
-> Courte description du projet — quel problème il résout et comment.
+###  [Classification de chien et chat](https://github.com/ton-username/projet-3)
+> Ce projet vise a construire un modele de classification pour classé deux classe 0 pour chat et 1 pour chien — Il peut s'appliquer au domaine comme l'agriculture pour detecter la maladie des plantes 
 
-**Technologies :** Python · NLP · NLTK · Flask  
+**Technologies :** Python · Scikit-learn · Pandas · Numpr  
 **[ Voir le notebook](lien)**
 
 ---
@@ -75,7 +76,7 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ##  Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cherif-tenga-070089323)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ton-portfolio.com)
 
