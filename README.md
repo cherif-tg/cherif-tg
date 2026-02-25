@@ -42,14 +42,14 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 ##  Projets phares
 
 ###  [Detection de fraude bancaire](https://github.com/ton-username/projet-1)
-> Courte description du projet — quel problème il résout et comment.
+> Classification d'un dataset sur les transaction bancaire afin de classé les transactions frauduleuse — Il permet de reduire le nombre de fraude bancaire en analysant les caracteristiques de chaques transactions et en les attribuant une classe .
 
 **Technologies :** Python · Scikit-learn · Pandas · Matplotlib  
 **[ Voir le notebook](lien)** | **[🌐 Demo live](lien)**
 
 ---
 
-###  [Systeme de prevision baser sur L'ia pour l'agriculture]([(https://github.com/cherif-tg/agri-ia.git)])
+###  [Systeme de prevision baser sur L'ia pour l'agriculture](https://github.com/cherif-tg/agri-ia.git)
 > C'est un systeme qui permet d'analyser des données sur l'agriculture afin d'effectuer et d'aider a la prise de decision — Ameliorer la production en analysant les données relatives a la production.
 
 **Technologies :** Python · TensorFlow · NumPy · Seaborn .Scikit-learn . XGboost  
