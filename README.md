@@ -49,10 +49,10 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ---
 
-###  [Nom du projet 2](https://github.com/ton-username/projet-2)
-> Courte description du projet — quel problème il résout et comment.
+###  [Systeme de prevision baser sur L'ia pour l'agriculture]([(https://github.com/cherif-tg/agri-ia.git)])
+> C'est un systeme qui permet d'analyser des données sur l'agriculture afin d'effectuer et d'aider a la prise de decision — Ameliorer la production en analysant les données relatives a la production.
 
-**Technologies :** Python · TensorFlow · NumPy · Seaborn  
+**Technologies :** Python · TensorFlow · NumPy · Seaborn .Scikit-learn . XGboost  
 **[ Voir le notebook](lien)** | **[🌐 Demo live](lien)**
 
 ---
@@ -60,7 +60,7 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 ###  [Classification de chien et chat](https://github.com/ton-username/projet-3)
 > Ce projet vise a construire un modele de classification pour classé deux classe 0 pour chat et 1 pour chien — Il peut s'appliquer au domaine comme l'agriculture pour detecter la maladie des plantes 
 
-**Technologies :** Python · Scikit-learn · Pandas · Numpr  
+**Technologies :** Python · Scikit-learn · Pandas · Numpy  
 **[ Voir le notebook](lien)**
 
 ---
