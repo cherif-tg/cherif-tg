@@ -68,8 +68,8 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 ##  Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cherif-tg&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherif-tg&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
