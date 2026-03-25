@@ -41,11 +41,18 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ##  Projets phares
 
-###  [Detection de fraude bancaire](https://github.com/ton-username/projet-1)
+###  [Detection de fraude bancaire](https://github.com/cherif-tg/fraudDetection.git)
 > Classification d'un dataset sur les transaction bancaire afin de classé les transactions frauduleuse — Il permet de reduire le nombre de fraude bancaire en analysant les caracteristiques de chaques transactions et en les attribuant une classe .
 
 **Technologies :** Python · Scikit-learn · Pandas · Matplotlib  
 **[ Voir le notebook](lien)** | **[🌐 Demo live](lien)**
+
+---
+###  [Openmind-RAG](https://github.com/cherif-tg/openmind.git)
+> CE projet vise a construire un systeme RAG avec python et langchain pour effectuer de la generation de texte appuyer avec des documents comme contexte
+
+**Technologies :** Python · Langchain · Groq · Streamlit  
+**[ Voir le notebook](lien)**
 
 ---
 
@@ -57,13 +64,7 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ---
 
-###  [Openmind-RAG](https://github.com/ton-username/projet-3)
-> CE projet vise a construire un systeme RAG avec python et langchain pour effectuer de la generation de texte appuyer avec des documents comme contexte
 
-**Technologies :** Python · Langchain · Groq · Streamlit  
-**[ Voir le notebook](lien)**
-
----
 
 ##  Statistiques GitHub
 
