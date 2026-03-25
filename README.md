@@ -57,10 +57,10 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ---
 
-###  [Classification de chien et chat](https://github.com/ton-username/projet-3)
-> Ce projet vise a construire un modele de classification pour classé deux classe 0 pour chat et 1 pour chien — Il peut s'appliquer au domaine comme l'agriculture pour detecter la maladie des plantes 
+###  [Openmind-RAG](https://github.com/ton-username/projet-3)
+> CE projet vise a construire un systeme RAG avec python et langchain pour effectuer de la generation de texte appuyer avec des documents comme contexte
 
-**Technologies :** Python · Scikit-learn · Pandas · Numpy  
+**Technologies :** Python · Langchain · Groq · Streamlit  
 **[ Voir le notebook](lien)**
 
 ---
