@@ -100,12 +100,12 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ---
 
-### [Système de prévision IA pour l'agriculture](https://github.com/cherif-tg/agri-ia)
+### [Système de prévision IA pour l'agriculture](https://github.com/cherif-tg/agri-ia.git)
 > Système d'analyse de données agricoles pour aider à la prise de décision et améliorer la production, en s'appuyant sur les données relatives à la production.
 
 **Technologies :** Python · TensorFlow · NumPy · Seaborn · Scikit-learn · XGBoost
 
-**[ Voir le dépôt](https://github.com/cherif-tg/agri-ia)**
+**[ Voir le dépôt](https://github.com/cherif-tg/agri-ia.git)**
 
 ---
 
