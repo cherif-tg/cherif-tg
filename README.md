@@ -73,12 +73,12 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ---
 
-### [Système RAG — Gestion de documents](https://github.com/cherif-tg/RAG_Systeme)
-> Moteur de recherche documentaire fondé sur la génération augmentée par récupération (RAG) : indexation en base vectorielle, recherche sémantique et réponses sourcées, avec déploiement local sécurisé (Ollama) pour la confidentialité des données.
+### [OpenMind RAG](https://github.com/cherif-tg/openmind)
+> Système de **Retrieval-Augmented Generation (RAG)** complet : ingestion multi-format (PDF, CSV, DOCX, Markdown, Web), découpage, vectorisation, recherche sémantique, **re-ranking** et génération de réponses **avec citations des sources**. Livré avec une API FastAPI et une interface Streamlit, avec un LLM hybride (Groq / Ollama / HuggingFace).
 
-**Technologies :** Python · LangChain · FAISS · Ollama · OpenAI API
+**Technologies :** Python · LangChain · ChromaDB · sentence-transformers · Groq · FastAPI · Streamlit
 
-**[ Voir le dépôt](https://github.com/cherif-tg/RAG_Systeme)**
+**[ Voir le dépôt](https://github.com/cherif-tg/openmind)**
 
 ---
 
@@ -100,12 +100,12 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ---
 
-### [Système de prévision IA pour l'agriculture](https://github.com/cherif-tg/agri-ia.git)
+### [Système de prévision IA pour l'agriculture](https://github.com/cherif-tg/agri-ia)
 > Système d'analyse de données agricoles pour aider à la prise de décision et améliorer la production, en s'appuyant sur les données relatives à la production.
 
 **Technologies :** Python · TensorFlow · NumPy · Seaborn · Scikit-learn · XGBoost
 
-**[ Voir le dépôt](https://github.com/cherif-tg/agri-ia.git)**
+**[ Voir le dépôt](https://github.com/cherif-tg/agri-ia)**
 
 ---
 
