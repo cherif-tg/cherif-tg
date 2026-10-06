@@ -8,13 +8,13 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 ## À propos de moi
 
-- Étudiant en **Intelligence Artificielle & Big Data** à l'[École Polytechnique de Lomé](https://www.univ-lome.tg/)
+- Data Scientist & AI Engineer
 - Actuellement : **Kabiyè–Èʋɛ NLP Toolkit** — traduction automatique FR ↔ Éwé avec NLLB-200 fine-tuné par LoRA — et **tuteur Kira Learning** du programme national de formation en IA
-- Certifications : **AI Engineer Associate**, **Python Data Associate**, **Data Scientist Career Track** (DataCamp)
+- Certifications : **AI Engineer Associate**, **Python Data Associate**, **Data Scientist Career Track** (DataCamp) **Google AI profesional** (Google)
 - J'utilise les outils d'IA pour booster ma productivité et accélérer mon apprentissage
 - Basé à **Lomé, Togo**
-- À la recherche d'un **stage en Data Science / IA appliquée (Août – Octobre 2026)**
-- Domaines de prédilection : Machine Learning, Deep Learning, NLP, Python, IA générative
+- À la recherche d'un **stage en Data Science / IA appliquée**
+- Domaines de prédilection : Machine Learning, Deep Learning, NLP, Data Storytelling , Python, IA générative,LLMOps, Sécurité des Applications d'IA.
 
 ---
 
