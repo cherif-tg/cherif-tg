@@ -1,6 +1,6 @@
 # Salut, moi c'est Cherif TENGA !
 
-### Étudiant en Intelligence Artificielle & Big Data
+### Data Scientist & AI Engineer
 
 Passionné par la donnée et les systèmes intelligents, je construis des solutions qui transforment des données brutes en insights actionnables. Toujours en apprentissage, toujours en train de construire.
 
@@ -80,14 +80,6 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 
 **[ Voir le dépôt](https://github.com/cherif-tg/openmind)**
 
----
-
-### [Cahier de Vacances — Défi Data Science](https://github.com/cherif-tg/Cahier_vacances_2026)
-> Relevé du défi « Cahier de Vacances » lancé par Guillaume Saint-Cirgue : exercices et projets intensifs sur tout le spectre de la Data Science et du Machine Learning (notebooks + base de données).
-
-**Technologies :** Python · Pandas · NumPy · Scikit-learn · SQL · Jupyter
-
-**[ Voir le dépôt](https://github.com/cherif-tg/Cahier_vacances_2026)**
 
 ---
 
@@ -99,16 +91,6 @@ Passionné par la donnée et les systèmes intelligents, je construis des soluti
 **[ Voir le dépôt](https://github.com/cherif-tg/NLP_Lexique_Sara)**
 
 ---
-
-### [Système de prévision IA pour l'agriculture](https://github.com/cherif-tg/agri-ia.git)
-> Système d'analyse de données agricoles pour aider à la prise de décision et améliorer la production, en s'appuyant sur les données relatives à la production.
-
-**Technologies :** Python · TensorFlow · NumPy · Seaborn · Scikit-learn · XGBoost
-
-**[ Voir le dépôt](https://github.com/cherif-tg/agri-ia.git)**
-
----
-
 ## Certifications
 
 - **AI Engineer for Data Scientists Associate** — DataCamp, Mai 2026 — [Voir le certificat](https://cherif-tggithubio.vercel.app/certif-ai-engineer.pdf)
